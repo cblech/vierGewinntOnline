@@ -7,7 +7,7 @@ import javax.swing.JLabel;
 
 public class JfLeinwand extends JFrame {
 	
-	//test
+	//test test
 
 	/**
 	 * 
